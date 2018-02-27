@@ -1,0 +1,1 @@
+﻿Скрипт на node.js под названием secfocus-scrapper для сбора данных (заголовков, текста статей и ссылок на изображения) с web-сайта http://www.secfocus.ru/ при помощи npm модулей needle, tress, cheerio. Доступен в репозитории на github по ссылке: 

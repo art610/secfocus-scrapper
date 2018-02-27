@@ -1,0 +1,16 @@
+{
+  "name": "firstscrap",
+  "version": "1.0.0",
+  "description": "part with code name firstscrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://IronArt@bitbucket.org/IronArt/firstscrap.git"
+  },
+  "author": "Artem Zhelonkin",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/IronArt/firstscrap#readme"
+}
